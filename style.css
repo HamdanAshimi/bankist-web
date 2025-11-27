@@ -81,7 +81,6 @@ body {
 .btn:hover {
   background-color: var(--color-primary-darker);
   transform: scale(1.05);
-  transition: all 0.3s;
 }
 
 .btn--text {
@@ -171,7 +170,6 @@ img {
   background-color: var(--color-primary-darker);
   color: #333;
   transform: scale(1.05);
-  transition: all 0.3s;
 }
 
 /* HEADER */
